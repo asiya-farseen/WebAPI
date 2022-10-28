@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dOVxNgSmo0XoWNq42XMh41Xp4jD5szkj1IpDiAMbnEg=",
+  "Source": "LocalBussinessTestWebAPI",
+  "BasePath": "_content/LocalBussinessTestWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
